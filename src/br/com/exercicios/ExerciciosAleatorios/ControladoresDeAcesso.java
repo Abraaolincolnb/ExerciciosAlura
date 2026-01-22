@@ -1,3 +1,5 @@
+package br.com.exercicios.ExerciciosAleatorios;
+
 public class ControladoresDeAcesso {
     static void main() {
         RandomNumber rng = new RandomNumber();

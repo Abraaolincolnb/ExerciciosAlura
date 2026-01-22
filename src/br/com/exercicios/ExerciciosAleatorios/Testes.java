@@ -1,3 +1,5 @@
+package br.com.exercicios.ExerciciosAleatorios;
+
 import java.util.Scanner;
 
 public class Testes {

@@ -1,3 +1,5 @@
+package br.com.exercicios.ExerciciosAleatorios;
+
 public class ConversorMoeda implements ConversaoFinanceira {
     @Override
     public double converterDolarParaReal(double dolar) {

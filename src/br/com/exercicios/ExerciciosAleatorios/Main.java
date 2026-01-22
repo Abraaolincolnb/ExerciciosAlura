@@ -1,3 +1,5 @@
+package br.com.exercicios.ExerciciosAleatorios;
+
 public class Main {
 
     public static void main(String[] args) {

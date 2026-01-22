@@ -1,3 +1,5 @@
+package br.com.exercicios.ExerciciosAleatorios;
+
 public class RandomNumber {
     private int semente = 248;
 

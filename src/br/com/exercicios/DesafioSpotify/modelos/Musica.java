@@ -1,4 +1,4 @@
-package br.com.exercicios.sbootify.modelos;
+package br.com.exercicios.DesafioSpotify.modelos;
 
 public class Musica extends Audio {
     private String album;

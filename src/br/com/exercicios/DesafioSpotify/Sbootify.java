@@ -1,7 +1,7 @@
-package br.com.exercicios.sbootify;
+package br.com.exercicios.DesafioSpotify;
 
-import br.com.exercicios.sbootify.modelos.Musica;
-import br.com.exercicios.sbootify.modelos.Podcast;
+import br.com.exercicios.DesafioSpotify.modelos.Musica;
+import br.com.exercicios.DesafioSpotify.modelos.Podcast;
 
 public class Sbootify {
     static void main() {

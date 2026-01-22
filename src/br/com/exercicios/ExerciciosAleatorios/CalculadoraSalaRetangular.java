@@ -1,3 +1,5 @@
+package br.com.exercicios.ExerciciosAleatorios;
+
 public class CalculadoraSalaRetangular implements CalculoGeometrico {
 
     @Override
